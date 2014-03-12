@@ -1,5 +1,5 @@
 {
-  "name": "reactor-pushState",
+  "name": "reactor-pushstate",
   "version": "0.0.1",
   "description": "React mixin to handle HTML5 history",
   "main": "index.js",
