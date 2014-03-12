@@ -1,0 +1,24 @@
+{
+  "name": "reactor-pushState",
+  "version": "0.0.1",
+  "description": "React mixin to handle HTML5 history",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:natew/reactor-pushState.git"
+  },
+  "keywords": [
+    "React",
+    "Reactor",
+    "pushState"
+  ],
+  "author": "Nate Wienert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natew/reactor-pushState/issues"
+  },
+  "homepage": "https://github.com/natew/reactor-pushState"
+}
